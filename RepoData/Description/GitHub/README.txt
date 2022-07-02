@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A set of macros that convert to and from the words: Grey, Gray, GREY, GRAY, Græy, and GRÆY.
